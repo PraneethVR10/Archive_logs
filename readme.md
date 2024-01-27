@@ -6,7 +6,7 @@ compress those files and move in an "Archive" folder
 Note : The size and the days can be changed according to the user requirement
 
 
-**Steps**
+Steps 
 
 1. Provide the path of the directory
 2. check if the directory is present or not
